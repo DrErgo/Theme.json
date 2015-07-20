@@ -1,0 +1,39 @@
+{
+    "room": "Freeroam",
+    "author": "DrErgo",
+    "css": "https://github.com/DrErgo/style.css/blob/master/style.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#42A5DC",
+        "ambassador": "#89BE6C",
+        "host": "#006eff",
+        "cohost": "#006eff",
+        "manager": "#00c7ff",
+        "bouncer": "#89efff",
+        "rdj": "#9bffda",
+        "subscriber": "#C59840",
+        "friend": null,
+        "user": "#777F92"
+    },
+    "images": {
+        "background": "http://i.imgur.com/2IX8D3q.jpg",
+        "playback": "http://i.imgur.com/qAHDKP9.png",
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null
+    }
+}
